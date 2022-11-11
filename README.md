@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoryResilient
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning ethical hacking and black hat 👀 jk
+- ok
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Youtube 
 
